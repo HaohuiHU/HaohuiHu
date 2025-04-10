@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning for medical images
 - 💬 Ask me about heart medical images related
 - 📫 How to reach me: 1152123135@qq.com
-- 😄 Pronouns: AI,IVUS
 -->
 
 # My Projects
